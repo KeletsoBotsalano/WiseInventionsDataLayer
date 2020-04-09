@@ -1,0 +1,8 @@
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\bin\Debug\netstandard2.0\WiseInventionsDataLayer.deps.json
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\bin\Debug\netstandard2.0\WiseInventionsDataLayer.dll
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\bin\Debug\netstandard2.0\WiseInventionsDataLayer.pdb
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\obj\Debug\netstandard2.0\WiseInventionsDataLayer.csprojAssemblyReference.cache
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\obj\Debug\netstandard2.0\WiseInventionsDataLayer.AssemblyInfoInputs.cache
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\obj\Debug\netstandard2.0\WiseInventionsDataLayer.AssemblyInfo.cs
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\obj\Debug\netstandard2.0\WiseInventionsDataLayer.dll
+C:\Users\kbotsalano\source\repos\StorageMasterApp\WiseInventionsDataLayer\obj\Debug\netstandard2.0\WiseInventionsDataLayer.pdb
