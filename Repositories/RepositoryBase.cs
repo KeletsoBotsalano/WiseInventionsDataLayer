@@ -45,7 +45,7 @@ namespace WiseInventionsDataLayer.Repositories
             await _dbContext.Set<T>().AddAsync(entity);
         }
 
-        public void Update(T entity)
+        public void Update(string id, T entity)
         {
             _dbContext.Entry<T>(entity).State = EntityState.Modified;
         }
